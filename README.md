@@ -362,13 +362,13 @@ https://uob-group7.atlassian.net/jira/software/projects/GP/boards/1
 
 We divided the game into 5 parts at beginning of the project, so everyone can focus on his or her own part. Please find below table as how we assign the team role and also our individual contribution.
 
-| Task                                | To do by | Individual Weight|
-| ----------------------------------- | -------- | -------------|
-| Rooms & Room Factory                | ***     |1.00          |
-| Menu & Setting & BGM                | ***   |0.95          |
-| Game framework, Player, Basic props, Collision etc… | Xiao     |1.15          |
-| Items & Items Factory               | ***    |0.95          |
-| Enemy & Enemy Factory               | *** |0.95          |
+| Task                                | To do by |
+| ----------------------------------- | -------- |
+| Rooms & Room Factory                | ***     |
+| Menu & Setting & BGM                | ***   |
+| Game framework, Player, Basic props, Collision etc… | Xiao     |
+| Items & Items Factory               | ***    |
+| Enemy & Enemy Factory               | *** |
 
 Meanwhile, apart from the game, there are some works have been done by different team members:
 
