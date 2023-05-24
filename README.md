@@ -1,4 +1,4 @@
-### Summary
+# Preface
 
 This is a group project for a course in University of Bristol. 
 
@@ -12,9 +12,10 @@ Following is original group report. Personnel information is hidden for privacy.
 
 <div align="center">
    <h1> University  of  Bristol <br/>
-   COMSM0110 - Group 7 (2023) <br/></h1>
+   COMSM**** - Group * (2023) <br/></h1>
    <h2>JUPITER X Resource War</h2>
 </div>
+
 
 
 
