@@ -4,7 +4,15 @@ This is a group project for a course in University of Bristol.
 
 Due to my stronger programming skills, I designed the overall framework of the game based on the MVC, created UML diagrams, defined all classes and their methods, and ensured the independence and compatibility of various modules. 
 
-As the main contributor to this project, I contributed more than 80% codes and implemented several critical features, including random map generation, room optimization, collision detection, key listener, player control, UI, factory classes, as well as dealing with daunting tasks that no one else could solve . 
+As the **main contributor** to this project, I contributed more than **70%** codes and implemented several critical features, including random map generation, room optimization, collision detection, key listener, player control, UI, factory classes, as well as dealing with daunting tasks that no one else could solve . 
+
+
+
+Download:
+
+https://drive.google.com/file/d/1geLfAN7qis6jFV6fE62I-cvE2cfz083M/view?usp=sharing
+
+
 
 Following is original group report. Personnel information is hidden for privacy.
 
@@ -15,8 +23,6 @@ Following is original group report. Personnel information is hidden for privacy.
    COMSM**** - Group * (2023) <br/></h1>
    <h2>JUPITER X Resource War</h2>
 </div>
-
-
 
 
 
